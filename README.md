@@ -52,4 +52,4 @@ Configure to your database settings from application.properties file and Connect
    npm run dev
    ```
 
-5- Visit http://localhost:3000 in your browser to view the application.
+5- Visit http://localhost:3000 in your browser to view the application."# Task_List" 
